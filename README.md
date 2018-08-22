@@ -1,7 +1,7 @@
 # projetalgo
 
-[x]Ledan Fabrice
-[x]Marseille Carl Stevenson
-[x]Rinaldo Pierre
-[x]Lajoie Perault
-[x]Youlguens Vixamar
+[X]Ledan Fabrice
+[X]Marseille Carl Stevenson
+[X]Rinaldo Pierre
+[X]Lajoie Perault
+[X]Youlguens Vixamar
